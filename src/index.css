@@ -1,0 +1,14 @@
+.align-center{
+    margin: 5rem auto;
+    text-align: center;
+}
+.pt-3{
+    padding-top: 3rem;
+}
+.pb-3{
+    padding-bottom: 3rem;
+}
+h1.ui.header.main{
+    text-transform: uppercase;
+    color: royalblue
+}
